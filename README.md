@@ -1,7 +1,7 @@
 # matrix-operations
 
 
-The Matrix Operations Tool is a Python-based project that uses NumPy to perform various matrix calculations. It is designed to help users easily perform mathematical operations on matrices with accurate and fast results.
+The Matrix Operations  is a Python-based project that uses NumPy to perform various matrix calculations. It is designed to help users easily perform mathematical operations on matrices with accurate and fast results.
 
 ---
 
